@@ -28,3 +28,4 @@ C:\Dev\Conhecimentos\Ambev-Teste\src\Ambev.Application\obj\Debug\net8.0\Ambev.Ap
 C:\Dev\Conhecimentos\Ambev-Teste\src\Ambev.Application\obj\Debug\net8.0\refint\Ambev.Application.dll
 C:\Dev\Conhecimentos\Ambev-Teste\src\Ambev.Application\obj\Debug\net8.0\Ambev.Application.pdb
 C:\Dev\Conhecimentos\Ambev-Teste\src\Ambev.Application\obj\Debug\net8.0\ref\Ambev.Application.dll
+C:\Dev\Conhecimentos\Ambev-Teste\src\Ambev.Application\obj\Debug\net8.0\Ambev.Application.sourcelink.json

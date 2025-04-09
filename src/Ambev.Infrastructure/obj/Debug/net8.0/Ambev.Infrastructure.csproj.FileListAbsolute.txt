@@ -34,3 +34,4 @@ C:\Dev\Conhecimentos\Ambev-Teste\src\Ambev.Infrastructure\obj\Debug\net8.0\Ambev
 C:\Dev\Conhecimentos\Ambev-Teste\src\Ambev.Infrastructure\obj\Debug\net8.0\ref\Ambev.Infrastructure.dll
 C:\Dev\Conhecimentos\Ambev-Teste\src\Ambev.Infrastructure\bin\Debug\net8.0\Ambev.Application.dll
 C:\Dev\Conhecimentos\Ambev-Teste\src\Ambev.Infrastructure\bin\Debug\net8.0\Ambev.Application.pdb
+C:\Dev\Conhecimentos\Ambev-Teste\src\Ambev.Infrastructure\obj\Debug\net8.0\Ambev.Infrastructure.sourcelink.json

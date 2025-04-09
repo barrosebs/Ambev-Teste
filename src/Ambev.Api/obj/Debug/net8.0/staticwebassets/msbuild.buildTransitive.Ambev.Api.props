@@ -1,3 +1,3 @@
 ﻿<Project>
-  <Import Project="..\buildMultiTargeting\Ambev.API.props" />
+  <Import Project="..\buildMultiTargeting\Ambev.Api.props" />
 </Project>

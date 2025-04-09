@@ -1,8 +1,8 @@
 {
   "Version": 1,
-  "Hash": "/puSLpIuRGBytvS1pNcmSSPdzHLBqShNgXC3dZRvUkI=",
-  "Source": "Ambev.API",
-  "BasePath": "_content/Ambev.API",
+  "Hash": "xpSGfDSAs8Wjjica3wpSwkwQNB2VYj7lcRVZuGBPsI0=",
+  "Source": "Ambev.Api",
+  "BasePath": "_content/Ambev.Api",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [],

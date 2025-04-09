@@ -22,3 +22,4 @@ C:\Dev\Conhecimentos\Ambev-Teste\src\Ambev.Domain\obj\Debug\net8.0\Ambev.Domain.
 C:\Dev\Conhecimentos\Ambev-Teste\src\Ambev.Domain\obj\Debug\net8.0\refint\Ambev.Domain.dll
 C:\Dev\Conhecimentos\Ambev-Teste\src\Ambev.Domain\obj\Debug\net8.0\Ambev.Domain.pdb
 C:\Dev\Conhecimentos\Ambev-Teste\src\Ambev.Domain\obj\Debug\net8.0\ref\Ambev.Domain.dll
+C:\Dev\Conhecimentos\Ambev-Teste\src\Ambev.Domain\obj\Debug\net8.0\Ambev.Domain.sourcelink.json
