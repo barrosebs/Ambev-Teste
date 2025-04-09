@@ -1,0 +1,5 @@
+C:\Dev\Conhecimentos\Ambev-Teste\.doc\src\Ambev.Infrastructure\obj\Debug\net9.0\Ambev.Infrastructure.csproj.AssemblyReference.cache
+C:\Dev\Conhecimentos\Ambev-Teste\.doc\src\Ambev.Infrastructure\obj\Debug\net9.0\Ambev.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\Conhecimentos\Ambev-Teste\.doc\src\Ambev.Infrastructure\obj\Debug\net9.0\Ambev.Infrastructure.AssemblyInfoInputs.cache
+C:\Dev\Conhecimentos\Ambev-Teste\.doc\src\Ambev.Infrastructure\obj\Debug\net9.0\Ambev.Infrastructure.AssemblyInfo.cs
+C:\Dev\Conhecimentos\Ambev-Teste\.doc\src\Ambev.Infrastructure\obj\Debug\net9.0\Ambev.Infrastructure.csproj.CoreCompileInputs.cache

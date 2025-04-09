@@ -1,0 +1,11 @@
+C:\Dev\Conhecimentos\Ambev-Teste\.doc\src\Ambev.Domain\bin\Debug\net9.0\Ambev.Domain.deps.json
+C:\Dev\Conhecimentos\Ambev-Teste\.doc\src\Ambev.Domain\bin\Debug\net9.0\Ambev.Domain.dll
+C:\Dev\Conhecimentos\Ambev-Teste\.doc\src\Ambev.Domain\bin\Debug\net9.0\Ambev.Domain.pdb
+C:\Dev\Conhecimentos\Ambev-Teste\.doc\src\Ambev.Domain\obj\Debug\net9.0\Ambev.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\Conhecimentos\Ambev-Teste\.doc\src\Ambev.Domain\obj\Debug\net9.0\Ambev.Domain.AssemblyInfoInputs.cache
+C:\Dev\Conhecimentos\Ambev-Teste\.doc\src\Ambev.Domain\obj\Debug\net9.0\Ambev.Domain.AssemblyInfo.cs
+C:\Dev\Conhecimentos\Ambev-Teste\.doc\src\Ambev.Domain\obj\Debug\net9.0\Ambev.Domain.csproj.CoreCompileInputs.cache
+C:\Dev\Conhecimentos\Ambev-Teste\.doc\src\Ambev.Domain\obj\Debug\net9.0\Ambev.Domain.dll
+C:\Dev\Conhecimentos\Ambev-Teste\.doc\src\Ambev.Domain\obj\Debug\net9.0\refint\Ambev.Domain.dll
+C:\Dev\Conhecimentos\Ambev-Teste\.doc\src\Ambev.Domain\obj\Debug\net9.0\Ambev.Domain.pdb
+C:\Dev\Conhecimentos\Ambev-Teste\.doc\src\Ambev.Domain\obj\Debug\net9.0\ref\Ambev.Domain.dll

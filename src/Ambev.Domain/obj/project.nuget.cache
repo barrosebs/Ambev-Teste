@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "gh7IL3OXDns=",
+  "success": true,
+  "projectFilePath": "C:\\Dev\\Conhecimentos\\Ambev-Teste\\src\\Ambev.Domain\\Ambev.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\eduardo.barros\\.nuget\\packages\\fluentvalidation\\11.9.0\\fluentvalidation.11.9.0.nupkg.sha512",
+    "C:\\Users\\eduardo.barros\\.nuget\\packages\\mediatr\\12.2.0\\mediatr.12.2.0.nupkg.sha512",
+    "C:\\Users\\eduardo.barros\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
+    "C:\\Users\\eduardo.barros\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
